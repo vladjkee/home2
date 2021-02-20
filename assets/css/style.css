@@ -1,0 +1,37 @@
+h2 {
+  background-color: bisque;
+  font-size: 30px;
+}
+
+.love1 {
+  width: 1000px;
+  height: 500px;
+}
+.linker {
+  text-decoration: none;
+  color: blueviolet;
+  font-size: 0.7em;
+}
+.backlink {
+  color: green;
+  font-size: 30px;
+  text-decoration: none;
+}
+.monkey {
+  width: 500px;
+  height: 500px;
+}
+.wood {
+  width: 500px;
+  height: 500px;
+}
+.pages1{
+  font-family: 'Ballet', cursive;
+}
+.pages2{
+
+  font-family: 'Reggae One', cursive;
+}
+.pages3{
+  font-family: 'Reggae One', cursive;
+}
