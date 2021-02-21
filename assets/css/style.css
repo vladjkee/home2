@@ -35,3 +35,8 @@ h2 {
 .pages3{
   font-family: 'Reggae One', cursive;
 }
+.navigation{
+  background-color: bisque;
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
