@@ -25,16 +25,10 @@
   width: 500px;
   height: 500px;
 }
-.pages1{
+#article-content{
   font-family: 'Ballet', cursive;
 }
-.pages2{
 
-  font-family: 'Reggae One', cursive;
-}
-.pages3{
-  font-family: 'Reggae One', cursive;
-}
 .navigation{
   background-color: bisque;
   font-size: 30px;
